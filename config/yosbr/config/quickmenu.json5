@@ -1,0 +1,9 @@
+{
+	"menuWidth": 180,
+	"menuHeight": 114,
+	"closeOnKeyReleased": true,
+	"hideEditIcon": false,
+	"closeOnAction": true,
+	"showActionsInTooltip": true,
+	"displayRunText": "KEYBIND_ONLY"
+}
