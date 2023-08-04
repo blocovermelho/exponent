@@ -278,6 +278,11 @@ hash = "b7d04fcd38f84af79e1733f2f4912df51f40dbd5d196f5d6bbadce586b52136b"
 metafile = true
 
 [[files]]
+file = "mods/librarian-trade-finder.pw.toml"
+hash = "6681b8451a8e87e18908bcee945977c75d8c24ea099ba5082db5cf7c94db4f06"
+metafile = true
+
+[[files]]
 file = "mods/litematica.pw.toml"
 hash = "87a313a3e048b2dffb8d501e4cb4afd275f263d8b0fbcdeb6f55d7d0efbdef8f"
 metafile = true
