@@ -228,11 +228,6 @@ hash = "8847ebb401a474d65b2ffd00a226356e94791db3f5cf98505beb227e74298884"
 metafile = true
 
 [[files]]
-file = "mods/idletweaks.pw.toml"
-hash = "4491bd9dec498da278d718741dd6f3f70272754883286d2d74554487e07c48f6"
-metafile = true
-
-[[files]]
 file = "mods/immediatelyfast.pw.toml"
 hash = "73a0efede9966b33752430aebdd1fd59a61ad6b565751f1236fff47e8ecca5c2"
 metafile = true
