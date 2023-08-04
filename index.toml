@@ -123,6 +123,11 @@ hash = "c4b5afc7ac22b5888e7999c1ba7e795efe726041851eb3a4c3f2613a75cae4f2"
 metafile = true
 
 [[files]]
+file = "mods/butterfingers.pw.toml"
+hash = "9183c482482e8a4584cec9a79b0b537020173ec0d7ad4d7468d288e5a6bb23ee"
+metafile = true
+
+[[files]]
 file = "mods/chat-heads.pw.toml"
 hash = "8792111bc94d2db611046d7089cf13ca0227165ebaec517e34858c97cc97f6e5"
 metafile = true
