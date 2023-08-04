@@ -113,6 +113,11 @@ hash = "ba31b113733abc813e36738bdc8104fad628232d29907f66f48cf8c45299de9f"
 metafile = true
 
 [[files]]
+file = "mods/blame-log.pw.toml"
+hash = "c4b5afc7ac22b5888e7999c1ba7e795efe726041851eb3a4c3f2613a75cae4f2"
+metafile = true
+
+[[files]]
 file = "mods/chat-heads.pw.toml"
 hash = "8792111bc94d2db611046d7089cf13ca0227165ebaec517e34858c97cc97f6e5"
 metafile = true
