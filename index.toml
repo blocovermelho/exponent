@@ -66,7 +66,7 @@ hash = "bb2df4d2590b3aa6de5940dc5788e7aeaddff5759c40782b33b981641473b8aa"
 
 [[files]]
 file = "config/yosbr/options.amecsapi.txt"
-hash = "b40b3851baf827931f7a1c4e4dc30952b3b120f5c5a461d3f96296718b000107"
+hash = "ffb066ec58fefd584d3b8d37ce81ad3b745d80d9a4b18f5829b096ced43c2f5f"
 
 [[files]]
 file = "config/yosbr/options.txt"
