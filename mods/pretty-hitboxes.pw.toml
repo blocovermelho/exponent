@@ -1,0 +1,13 @@
+name = "Pretty hitboxes"
+filename = "pretty-hitboxes-1.2.0.jar"
+side = "client"
+
+[download]
+url = "https://cdn.modrinth.com/data/i31MwYHP/versions/n1Qez2i3/pretty-hitboxes-1.2.0.jar"
+hash-format = "sha1"
+hash = "fd9fc4e1b5d6718858999c2e5eba067bfcd19eaa"
+
+[update]
+[update.modrinth]
+mod-id = "i31MwYHP"
+version = "n1Qez2i3"

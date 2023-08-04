@@ -353,6 +353,11 @@ hash = "83b476730dba8c3cdc9ee6ed4e0623f97bc116848aebfe3149eece321083b251"
 metafile = true
 
 [[files]]
+file = "mods/pretty-hitboxes.pw.toml"
+hash = "ca7a56bc550ff439290ae921c16546dbf9da52e4765a4b925f2259bf15653171"
+metafile = true
+
+[[files]]
 file = "mods/qkl.pw.toml"
 hash = "b0615e667641dd52e900c970553e0ce80748645dfaa93117bb126dccae3e3c19"
 metafile = true
