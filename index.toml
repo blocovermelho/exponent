@@ -74,7 +74,7 @@ hash = "6470fba0f7f77107cc24e2113a6803c3acff99d1d0159af1327b9c58c44d0d98"
 
 [[files]]
 file = "mods/amecs.pw.toml"
-hash = "33c7f61b3d555b4e44a0493b00cb48a04f7bfdb1666ddd335d0bf00f6941a4da"
+hash = "16ce27183f78f23c8606787ab2bbbaf01d290b569a4c6d5a6f91b30802ebabd9"
 metafile = true
 
 [[files]]
@@ -94,7 +94,7 @@ metafile = true
 
 [[files]]
 file = "mods/architectury-api.pw.toml"
-hash = "df19c411fd67e340ed687f781863a6d7fb9f1de666449df75ffe82136e45f9dc"
+hash = "a243675bc757485925b293932ee289b9fbcfb3b75bd3ba74eca7603f191cedad"
 metafile = true
 
 [[files]]
@@ -114,7 +114,7 @@ metafile = true
 
 [[files]]
 file = "mods/chat-heads.pw.toml"
-hash = "cd2e4fa0a3dda308c440d163b8339b2072cfb2409a0def1f49099a3114596ab6"
+hash = "8792111bc94d2db611046d7089cf13ca0227165ebaec517e34858c97cc97f6e5"
 metafile = true
 
 [[files]]
@@ -124,17 +124,17 @@ metafile = true
 
 [[files]]
 file = "mods/continuity.pw.toml"
-hash = "8e73f68cbcbff53b6a00c30f371fc34a63c2ac2240af4792008d67dce74fb507"
+hash = "2ff8353009122a86ac846dd8d48b2522d46f3b43111eb3a697d99cc42285a14f"
 metafile = true
 
 [[files]]
 file = "mods/controlify.pw.toml"
-hash = "6f6700ec1170d64907372f36b98abf151bd47809419bcfaf619698fb76a90cd0"
+hash = "962bbd04aa3b74d428e059cf6d95ac71549bbefee409cbab06b3963ad8723c29"
 metafile = true
 
 [[files]]
 file = "mods/craterlib.pw.toml"
-hash = "7735e0d48763373944fe6d82560319f7e9f77987459e303cdcdd9b94e677fbf5"
+hash = "c69c272ecafae92cc150f6dcf525d415d3179adc20b7d67c8126da1b9751ef52"
 metafile = true
 
 [[files]]
@@ -169,12 +169,12 @@ metafile = true
 
 [[files]]
 file = "mods/emi-loot.pw.toml"
-hash = "6839b26507e70368fd557d0104f3c640b4390d198cd0b658a20de363d80b2655"
+hash = "8766521465c1cc6b57199a24008be030eabfd417c0ba7eb6c91f26c2f6ffa70a"
 metafile = true
 
 [[files]]
 file = "mods/emi.pw.toml"
-hash = "24ed98f0fc3e1464c1ad72eba9be54f2f8d139b1509d6ca15289add45a927809"
+hash = "cfa6a711108fa04d3afcc5eb7e52cec5cfc1585d42977c6446e8d63541bda275"
 metafile = true
 
 [[files]]
@@ -209,7 +209,7 @@ metafile = true
 
 [[files]]
 file = "mods/immediatelyfast.pw.toml"
-hash = "a154087f80d2179cabd05cf7629c29c06c5a62538e70f7c58021dd1d4f9e3e3a"
+hash = "73a0efede9966b33752430aebdd1fd59a61ad6b565751f1236fff47e8ecca5c2"
 metafile = true
 
 [[files]]
@@ -234,7 +234,7 @@ metafile = true
 
 [[files]]
 file = "mods/jade.pw.toml"
-hash = "235a2ad50dc38b10c95721ec9998aa8da2dbdc46ec1ad11661160c259bf26d12"
+hash = "fc62c8ca609288aae3ab5368a40f29bf18f21df923158b8e5a008b45356a33a8"
 metafile = true
 
 [[files]]
@@ -299,7 +299,7 @@ metafile = true
 
 [[files]]
 file = "mods/modernfix.pw.toml"
-hash = "b069be03cd4e76ff934e079cb3103101dba440ad9343b904967b06fc8a075e0f"
+hash = "95734d5989d83a245b39d43b068e29aec12369c1d707a4eeb81cb4043d7cee4f"
 metafile = true
 
 [[files]]
@@ -334,12 +334,12 @@ metafile = true
 
 [[files]]
 file = "mods/qkl.pw.toml"
-hash = "02343a477f6f4ffd9cbedd4f93252f443c599b2f8d250037920d3a47f5756e6a"
+hash = "b0615e667641dd52e900c970553e0ce80748645dfaa93117bb126dccae3e3c19"
 metafile = true
 
 [[files]]
 file = "mods/qsl.pw.toml"
-hash = "be8073079bf41847c3aa1fb80c9941fa52b8c0ae39eb44a1475618d31c33e1d9"
+hash = "6ff7c68fb86e72f9f9feb1858e04cd2b7f80efda3b6819d484806a4316215557"
 metafile = true
 
 [[files]]
@@ -349,7 +349,7 @@ metafile = true
 
 [[files]]
 file = "mods/reeses-sodium-options.pw.toml"
-hash = "a1d419cad5a32a4a442b37b2e2fe2db3e761429d6ab60dd3bb79f43d36df2297"
+hash = "2cadde7b91d76a9376b6335b1215b734e8d75473c594a7b75ebb220ff7e2c017"
 metafile = true
 
 [[files]]
@@ -359,7 +359,7 @@ metafile = true
 
 [[files]]
 file = "mods/seamless.pw.toml"
-hash = "778b41655c5b5dec62a589560f063e98a76c5e83b5d24c40af997735332bf25f"
+hash = "c2eacf7d940b85f3fc750a206f184f30086ab4b1e0ec3e5db354d1564acaa78e"
 metafile = true
 
 [[files]]
@@ -384,12 +384,12 @@ metafile = true
 
 [[files]]
 file = "mods/simple-voice-chat.pw.toml"
-hash = "416160704a425b918df581192b214cbe3313b3358b2074e14d2d25a169746153"
+hash = "0f65b64253d3d258b8087e4543fab8b5a4cbe2738c388e45bf666220180285a3"
 metafile = true
 
 [[files]]
 file = "mods/sodium-extra.pw.toml"
-hash = "0906da8c52ef97aa073b150915eea98647ed1ad2445c4d2c91512acb32af8a30"
+hash = "7f8fc135366b83aa4021b9a7fe3e13e1449d3dff81dd16e82af06405498f42b8"
 metafile = true
 
 [[files]]
@@ -399,7 +399,7 @@ metafile = true
 
 [[files]]
 file = "mods/stackdeobf.pw.toml"
-hash = "c89de9767f4e0e6fbafb8ed25c2fa71070ec327f84e7f3c28c6c14a33b495ec7"
+hash = "16275ed48ad0c9e96cd31991242747d4850ef687f25b1744e44b14954c9d3c72"
 metafile = true
 
 [[files]]
@@ -409,7 +409,7 @@ metafile = true
 
 [[files]]
 file = "mods/yacl.pw.toml"
-hash = "796239ec3e198ff16d27b144d24f813da260ee25c7342cf5487f0db0843f1c29"
+hash = "2008716fdfef554660ce44659a3a42acd673a5391af2d4bd94f40654f1f60a1d"
 metafile = true
 
 [[files]]
