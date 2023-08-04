@@ -1,0 +1,13 @@
+name = "Arst Armor Hud"
+filename = "arstarmorhud-0.2.0+1.20.1.jar"
+side = "client"
+
+[download]
+url = "https://cdn.modrinth.com/data/JtW6ALXz/versions/7riv4ntn/arstarmorhud-0.2.0%2B1.20.1.jar"
+hash-format = "sha1"
+hash = "960d02348ff0fef0112284f330a62461247895f6"
+
+[update]
+[update.modrinth]
+mod-id = "JtW6ALXz"
+version = "7riv4ntn"
