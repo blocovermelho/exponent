@@ -353,6 +353,11 @@ hash = "7fab0f4d072975910e690b8c8b64899a586124fe4ea431e6def580c9524e2bce"
 metafile = true
 
 [[files]]
+file = "mods/quilt-loading-screen.pw.toml"
+hash = "0431d2fbc92b56108c48fc955caafbefcafeb69bc9773c5413daa89af5d87966"
+metafile = true
+
+[[files]]
 file = "mods/reeses-sodium-options.pw.toml"
 hash = "2cadde7b91d76a9376b6335b1215b734e8d75473c594a7b75ebb220ff7e2c017"
 metafile = true
