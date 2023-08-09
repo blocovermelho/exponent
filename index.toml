@@ -144,7 +144,7 @@ metafile = true
 
 [[files]]
 file = "mods/controlify.pw.toml"
-hash = "962bbd04aa3b74d428e059cf6d95ac71549bbefee409cbab06b3963ad8723c29"
+hash = "cd722b57ac86dee08528df084c70260ba77636e7bd1a2be1109c29577e2c4562"
 metafile = true
 
 [[files]]
@@ -174,7 +174,7 @@ metafile = true
 
 [[files]]
 file = "mods/draggable-lists.pw.toml"
-hash = "6def5f269d3f69656592f78adceb1b4c94047e68f3a332b95a51ac78d35c3e75"
+hash = "820a6bf2e0555af7e835f94c6e94c5cd8da1bdf2ea6824904030612b9f568919"
 metafile = true
 
 [[files]]
@@ -199,7 +199,7 @@ metafile = true
 
 [[files]]
 file = "mods/emi.pw.toml"
-hash = "cfa6a711108fa04d3afcc5eb7e52cec5cfc1585d42977c6446e8d63541bda275"
+hash = "4f0afa4e70e830f08266c181c2a0deb207780712db6e7f8961ffb62061afada0"
 metafile = true
 
 [[files]]
@@ -234,7 +234,7 @@ metafile = true
 
 [[files]]
 file = "mods/immediatelyfast.pw.toml"
-hash = "d33f01502da3fe555c3da1c15d2168fb96060e42427661aa0620c877a2554ae5"
+hash = "c6d8874cf9da3455fc3f339d758e4ed50a18f41339e74729bd73cf7de532860b"
 metafile = true
 
 [[files]]
@@ -264,7 +264,7 @@ metafile = true
 
 [[files]]
 file = "mods/jei.pw.toml"
-hash = "1d79ebde8e642dcc7eb2a9a6f82d311bde223fa3ef2e40f9a11d1bcbd5d11f63"
+hash = "947c19ef9ffa9b71f436fd202d65805dac0b18b4e4e40b3a2296b53a992009d1"
 metafile = true
 
 [[files]]
@@ -374,7 +374,7 @@ metafile = true
 
 [[files]]
 file = "mods/qsl.pw.toml"
-hash = "6ff7c68fb86e72f9f9feb1858e04cd2b7f80efda3b6819d484806a4316215557"
+hash = "affe1dbede9008f5e03cdf764b4c7a910fe7b9062dbeeb82d99e2497dc8603d8"
 metafile = true
 
 [[files]]
@@ -424,7 +424,7 @@ metafile = true
 
 [[files]]
 file = "mods/simple-voice-chat.pw.toml"
-hash = "0f65b64253d3d258b8087e4543fab8b5a4cbe2738c388e45bf666220180285a3"
+hash = "274afb866aa16175de494029c503d6bc8f88e0cb08a14b534a5bfb25cdd687f1"
 metafile = true
 
 [[files]]

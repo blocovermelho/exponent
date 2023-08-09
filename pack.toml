@@ -1,12 +1,12 @@
 name = "Exponent"
 author = "roridev et. al"
-version = "1.2.0"
+version = "1.2.1"
 pack-format = "packwiz:1.1.0"
 
 [index]
 file = "index.toml"
 hash-format = "sha256"
-hash = "0bef519618b8a2951e3cdff6a1ffa037358f5e886f842431fc4c7bb359d251e2"
+hash = "fb51d13ff871852be2c4d89c76473e5fbedbff5d9851294a63534f2e2f37382a"
 
 [versions]
 minecraft = "1.20.1"
