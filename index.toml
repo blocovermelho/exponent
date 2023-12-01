@@ -218,6 +218,11 @@ hash = "39a6a39433b1b104bfafafcd60a8171f866daa2ebefffd64df822d0e69288e3a"
 metafile = true
 
 [[files]]
+file = "mods/flow.pw.toml"
+hash = "9cef02a7279a9f6f4946de127642c6fcc02082089585fd1a2e33210313d3f7b3"
+metafile = true
+
+[[files]]
 file = "mods/gatekeep.pw.toml"
 hash = "2988b13cefe7889d4c65d958050d479f7414dcaeca570ba21ee6c7dd3f1162f2"
 metafile = true
@@ -343,6 +348,11 @@ hash = "d1558ff187abe468110fef11eee834aa3c03df732e706ac16e221425b538da4d"
 metafile = true
 
 [[files]]
+file = "mods/mru.pw.toml"
+hash = "051b1bee4a7fd8f2a55753fe95eda061e0f2a724c5b8ad38d2ca3619c88f2fae"
+metafile = true
+
+[[files]]
 file = "mods/norecipebook-fabric.pw.toml"
 hash = "7fea8ed44526f07aac9923e57429ba34bd60377d13594b04e22dd5b58fe09a21"
 metafile = true
@@ -435,6 +445,11 @@ metafile = true
 [[files]]
 file = "mods/sodium.pw.toml"
 hash = "9a927c3e0830ba32e1b8a2e543597781724462595b8cce58f676962b442bb52b"
+metafile = true
+
+[[files]]
+file = "mods/sonance.pw.toml"
+hash = "ce387b103b215be0407fb5fb996b89c3a4628df51a4a5d059bd89a3de758cbb7"
 metafile = true
 
 [[files]]
