@@ -2,7 +2,7 @@ hash-format = "sha256"
 
 [[files]]
 file = "config/yosbr/config/betterf3.json"
-hash = "d184f7ee2b2b459697b0ae840e1b146dea2865fa6bcf7ee8f122b3729dfc814b"
+hash = "7a021f1eb551b15d1135b4e36ec87e62c6594fafddcd6913e16a6952547a6ab2"
 
 [[files]]
 file = "config/yosbr/config/controlify.json"
@@ -42,23 +42,23 @@ hash = "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
 
 [[files]]
 file = "config/yosbr/config/jei/jei-client.ini"
-hash = "02755a18988318fc8c65f08e6785ea84d086102247b81ac9ab3b46c8cde504a8"
+hash = "e29c72e0fec5860b6cc5a4466841e4092a863002e8f56247569c83fdfe494a09"
 
 [[files]]
 file = "config/yosbr/config/jei/jei-colors.ini"
-hash = "c6328dcf3fb8b20a9f6ea6b61266ce289565c167353e183a105fb4915c36c072"
+hash = "bca5b02f5689992eedefaea160cecac8fd69ee8ae7cee403f5294afbe539e8ce"
 
 [[files]]
 file = "config/yosbr/config/jei/jei-debug.ini"
-hash = "24f1a0313b8ae9b6bf450d962640312613fd0f9e9a21a26756b85a6b5ee3d46d"
+hash = "8f986a34dbe2053ece09b3f6d7635e38b17ea5c49befb91e87d2c2e1a44c8b1a"
 
 [[files]]
 file = "config/yosbr/config/jei/jei-mod-id-format.ini"
-hash = "34eb990ae2cf62220a0d1be95629bcac46e6732f1cd6f7b6fdc54bcae02916e5"
+hash = "8f2761840207e6e133df740cd06303e52c711f418942300073cf58827a06b989"
 
 [[files]]
 file = "config/yosbr/config/jei/recipe-category-sort-order.ini"
-hash = "f07420c28821341c7b85b7dc540b0ab4d83ba871e6e3025bb0731c94e5aca2d8"
+hash = "8ee405b6a65236d3ae7d8cfedfe32b5c487051a16d0c36ccb08edb17d6cec6a5"
 
 [[files]]
 file = "config/yosbr/config/quickmenu.json5"
@@ -66,11 +66,11 @@ hash = "bb2df4d2590b3aa6de5940dc5788e7aeaddff5759c40782b33b981641473b8aa"
 
 [[files]]
 file = "config/yosbr/options.amecsapi.txt"
-hash = "ffb066ec58fefd584d3b8d37ce81ad3b745d80d9a4b18f5829b096ced43c2f5f"
+hash = "9f2fa9f5f2e471872c109293fcd64d4f6c8cd1652f7899f1408c39a16bdb474e"
 
 [[files]]
 file = "config/yosbr/options.txt"
-hash = "6470fba0f7f77107cc24e2113a6803c3acff99d1d0159af1327b9c58c44d0d98"
+hash = "338f23b891a875186c5a7a4a9ad80ad4c24d0f37782706a9d38578462db2f162"
 
 [[files]]
 file = "mods/amecs.pw.toml"
