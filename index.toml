@@ -313,6 +313,11 @@ hash = "87a313a3e048b2dffb8d501e4cb4afd275f263d8b0fbcdeb6f55d7d0efbdef8f"
 metafile = true
 
 [[files]]
+file = "mods/litemoretica.pw.toml"
+hash = "09963424617359ab3c2196a496ef5a7ebe976371598bfd849c8c063509c7a3a3"
+metafile = true
+
+[[files]]
 file = "mods/malilib.pw.toml"
 hash = "1acd996072e196d8bf814766bcbd074c726d8ed95d0be773ce2ce04ca2d60e95"
 metafile = true
