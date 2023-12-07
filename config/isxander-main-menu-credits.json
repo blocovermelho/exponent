@@ -1,0 +1,29 @@
+{
+  "main_menu": {
+    "top_left": [
+    ],
+    "top_right": [
+    ],
+    "bottom_left": [
+        "",{"text":"Exponent ","color":"gold","clickEvent":{"action":"open_url","value":"https://modrinth.com/modpack/exponent/"}},"v.","1.5.1"
+    ],
+    "bottom_right": [
+        {"text":"Copyleft Bloco Vermelho. Redistribute","clickEvent":{"action":"open_url","value":"https://github.com/blocovermelho"}}
+    ],
+    "mod_blacklist": [
+    ]
+  },
+  "pause_menu": {
+    "top_left": [
+    ],
+    "top_right": [
+    ],
+    "bottom_left": [
+    ],
+    "bottom_right": [
+    ],
+    "mod_blacklist": [
+
+    ]
+  }
+}
