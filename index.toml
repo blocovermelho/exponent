@@ -483,6 +483,11 @@ hash = "1bcfedea8c71c58c75646e0afd6211a95df4b4d0e545c28585f6aa3647f7158c"
 metafile = true
 
 [[files]]
+file = "mods/tweakermore.pw.toml"
+hash = "65e9f0f10453549c1233881d6d54be76e1142e5a0a9217fd301b820f8eb9eea9"
+metafile = true
+
+[[files]]
 file = "mods/tweakeroo.pw.toml"
 hash = "75b8ac35dee78b95e98d995a1d22e2b122e39425b2ab8838334b8cac849ca0f4"
 metafile = true
