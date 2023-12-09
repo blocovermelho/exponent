@@ -5,7 +5,7 @@
     "top_right": [
     ],
     "bottom_left": [
-        "",{"text":"Exponent ","color":"gold","clickEvent":{"action":"open_url","value":"https://modrinth.com/modpack/exponent/"}},"v.","1.5.1"
+        { "text":"Exponent 1.5.1" , "clickEvent":{"action":"open_url","value":"https://modrinth.com/modpack/exponent/"}}
     ],
     "bottom_right": [
         {"text":"Copyleft Bloco Vermelho. Redistribute","clickEvent":{"action":"open_url","value":"https://github.com/blocovermelho"}}
