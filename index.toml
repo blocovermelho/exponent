@@ -2,7 +2,11 @@ hash-format = "sha256"
 
 [[files]]
 file = "config/isxander-main-menu-credits.json"
-hash = "fd272d95fb7ea6fafacbd7933b420ba8cee1da0a150f3f04ff38ca28b75b7ee9"
+hash = "fba5c19b804614f906fe3457c14798837964267e5613260753a72f9e6af152b0"
+
+[[files]]
+file = "config/modernfix-mixins.properties"
+hash = "3ba8f36daa2ad00ac2a586ecee5e40561415d8f893cfd1ec66e5203441527364"
 
 [[files]]
 file = "config/yosbr/config/betterf3.json"
