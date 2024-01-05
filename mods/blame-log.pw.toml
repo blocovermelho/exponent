@@ -1,13 +1,13 @@
 name = "BlameLog"
-filename = "blame-log-0.3.2-1.18.jar"
+filename = "blame-log-0.4.0-1.18.jar"
 side = "both"
 
 [download]
-url = "https://cdn.modrinth.com/data/6N4iGk9g/versions/zx1FMlif/blame-log-0.3.2-1.18.jar"
+url = "https://cdn.modrinth.com/data/6N4iGk9g/versions/OTln9Rba/blame-log-0.4.0-1.18.jar"
 hash-format = "sha1"
-hash = "ed0d85834fd14f7b2a25fdefd8518aa599810b0d"
+hash = "83142eb203d069b17378b1b3106a8d5823354e84"
 
 [update]
 [update.modrinth]
 mod-id = "6N4iGk9g"
-version = "zx1FMlif"
+version = "OTln9Rba"

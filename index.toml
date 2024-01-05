@@ -117,7 +117,7 @@ metafile = true
 
 [[files]]
 file = "mods/better-stats.pw.toml"
-hash = "5636f58a791fd425639a8fc45b920d12959838f6e461bc55795eabe266bab53b"
+hash = "60cb0d61b96d01cfc30dcbd38b43f74bc4a139bb0e57877afd5637eb5527f24c"
 metafile = true
 
 [[files]]
@@ -127,7 +127,7 @@ metafile = true
 
 [[files]]
 file = "mods/blame-log.pw.toml"
-hash = "a4d625fd39540b6499e619acc021dd6f3843002b7cce8e417af412998b3f63b8"
+hash = "003f64df0a3cfd815b9172c126b9731f6b1c2154e0ede1499453f24f64c80cbd"
 metafile = true
 
 [[files]]
@@ -137,12 +137,12 @@ metafile = true
 
 [[files]]
 file = "mods/chat-heads.pw.toml"
-hash = "cf7630fc7cb67645d9721797b28b300ac24506ae7d21c2b615edec015a181536"
+hash = "5c77827ed3d6f0553faeae1aa8fb42bdcd30ffdc8db9768c291448ed01d6a702"
 metafile = true
 
 [[files]]
 file = "mods/cloth-config.pw.toml"
-hash = "b6348f94ec939f563285dc96683e61da8fc17ab2f2897be2751fa24789513691"
+hash = "a89dfcc985612a275975d4823a24fc3dceb244bacb2e8f81bd459283bf1b9fe9"
 metafile = true
 
 [[files]]
@@ -157,7 +157,7 @@ metafile = true
 
 [[files]]
 file = "mods/craterlib.pw.toml"
-hash = "c69c272ecafae92cc150f6dcf525d415d3179adc20b7d67c8126da1b9751ef52"
+hash = "58dd43cb8e458f89e121ca6372c7982a22557e10eb3f63fde0b5741ddd7767c2"
 metafile = true
 
 [[files]]
@@ -192,7 +192,7 @@ metafile = true
 
 [[files]]
 file = "mods/dynamic-fps.pw.toml"
-hash = "6e6ee1bf66d6977728d3bf5404338c87a0a4ad5260833efcd912aaaca776cf8f"
+hash = "3c74be6e3f141680170ab0235cf272db65d5bf82ddbf99f9cbdc178fffc9a735"
 metafile = true
 
 [[files]]
@@ -212,7 +212,7 @@ metafile = true
 
 [[files]]
 file = "mods/emi.pw.toml"
-hash = "f6d72dfe331d7f06e5b3471e4dba2675d59b8e15950a41268897f26230fdf795"
+hash = "bc8ad6b422fead0c5798e670db44992fc8646e0bb2eba9861c28a72c6d6940c3"
 metafile = true
 
 [[files]]
@@ -257,7 +257,7 @@ metafile = true
 
 [[files]]
 file = "mods/immediatelyfast.pw.toml"
-hash = "1ef40993b8abff2b77e3f5f59874e6de0348e4c39f6b8e5561fa672a8b1c5c0b"
+hash = "c4afda1d505225ad18e689ded06f0ed170dec2ea5e6c9621277b565d0fc338b8"
 metafile = true
 
 [[files]]
@@ -282,7 +282,7 @@ metafile = true
 
 [[files]]
 file = "mods/jade.pw.toml"
-hash = "51709a536d48a3aa27af5c0316647dc0dc74be79000ecb5262795bb383c9a204"
+hash = "bd14735296607c2f58e3130748610d08ab6407afcb1d7cd168e856a0012173a7"
 metafile = true
 
 [[files]]
@@ -362,7 +362,7 @@ metafile = true
 
 [[files]]
 file = "mods/modernfix.pw.toml"
-hash = "919cf3088c29f42ac95d83ebfafbd09730289b4fc3371106abc03731a6142bf7"
+hash = "2205cb06ba208c342a08f3f2e14bd2bbebdfd2ff0be76b22170f231c01b7f76e"
 metafile = true
 
 [[files]]
@@ -387,7 +387,7 @@ metafile = true
 
 [[files]]
 file = "mods/ok-zoomer.pw.toml"
-hash = "a60f50e7c0ae6420e4a36f4e2fabaa4663bf79236531c1b23fd9c425121b2203"
+hash = "8799d48386f500a6f924f327d61680fcb544ce74595f044d40c398de2174bc58"
 metafile = true
 
 [[files]]
@@ -417,7 +417,7 @@ metafile = true
 
 [[files]]
 file = "mods/quick-menu.pw.toml"
-hash = "aa682ff061b9e223aebcc7dff26b66b9419d5a3eb1cd393d9b9ebd762bc52941"
+hash = "987bb79fabd7af07487842bf195901921fd1fb145647bfc1d3f263b0d47c52d4"
 metafile = true
 
 [[files]]
@@ -427,7 +427,7 @@ metafile = true
 
 [[files]]
 file = "mods/raknetify.pw.toml"
-hash = "59099b64395c982308f9fcbad2ece5884900f9f3dda45a7dbb1e89b94c5ab7ed"
+hash = "02421594640b86ccd43e888d0413ade610b4a87bb5a2325cccdfda0a502c5b61"
 metafile = true
 
 [[files]]
@@ -442,7 +442,7 @@ metafile = true
 
 [[files]]
 file = "mods/seamless.pw.toml"
-hash = "696da16fa4af6c9448abc68616f13b5f88f3f22044621993b13fafd8407a5f3a"
+hash = "57b79e4536cf3d60e5b4cc43ac7603c3ccb2e8481a2dcba93d74378822409b0d"
 metafile = true
 
 [[files]]
@@ -467,7 +467,7 @@ metafile = true
 
 [[files]]
 file = "mods/simple-voice-chat.pw.toml"
-hash = "5493b29ebfa85448ca5063eeecf1811a01e5f5fc2f7d2dec51d339ba06a72a7c"
+hash = "01b9047e31dc6074701da8935325100487bdf7753b6b8f088004e1c2aef0c6e6"
 metafile = true
 
 [[files]]
@@ -482,7 +482,7 @@ metafile = true
 
 [[files]]
 file = "mods/sonance.pw.toml"
-hash = "ce387b103b215be0407fb5fb996b89c3a4628df51a4a5d059bd89a3de758cbb7"
+hash = "f1404963390834920fe5b40f951ea047c2d23054e7894e73913362d437e0c050"
 metafile = true
 
 [[files]]
@@ -497,7 +497,7 @@ metafile = true
 
 [[files]]
 file = "mods/tweakermore.pw.toml"
-hash = "65e9f0f10453549c1233881d6d54be76e1142e5a0a9217fd301b820f8eb9eea9"
+hash = "115af74cfe35b2bca5850f6d75b0763a606f45b9505e5a46ac3f8114efec9bba"
 metafile = true
 
 [[files]]
