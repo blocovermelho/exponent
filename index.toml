@@ -226,11 +226,6 @@ hash = "b5fa39db5c13454ebc82cfc76da7fa33ccaa389986f407a033c5c9675633f00c"
 metafile = true
 
 [[files]]
-file = "mods/fastanim.pw.toml"
-hash = "09282ae8265516057d5500cb489f0a8d3c563064d85582718a1efd6f3afb43be"
-metafile = true
-
-[[files]]
 file = "mods/ferrite-core.pw.toml"
 hash = "39a6a39433b1b104bfafafcd60a8171f866daa2ebefffd64df822d0e69288e3a"
 metafile = true
