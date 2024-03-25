@@ -1,0 +1,211 @@
+hash-format = "sha256"
+
+[[files]]
+file = "mods/amecs.pw.toml"
+hash = "d66bc9c3f81429f138de5eae6226dce25f620f90df864bf7f0f9121708bf0bcc"
+metafile = true
+
+[[files]]
+file = "mods/badoptimizations.pw.toml"
+hash = "d349418229113f3ee294443bfca547e5b252da3849f7bcbfa10ab5177bdf4dde"
+metafile = true
+
+[[files]]
+file = "mods/better-stats.pw.toml"
+hash = "546ad110838279308e92fa46583474e81484d4574ce924179d2c73744fa07ecf"
+metafile = true
+
+[[files]]
+file = "mods/bridging-mod.pw.toml"
+hash = "a5251001f835f131fca620b8633f0309208bdcdeea22e2820f633ea02bb43cee"
+metafile = true
+
+[[files]]
+file = "mods/chat-heads.pw.toml"
+hash = "8a069d8b237eb6807fb27f7b19867055293190f25b03e83dad183dfcdad9efd7"
+metafile = true
+
+[[files]]
+file = "mods/cit-resewn.pw.toml"
+hash = "44e2cc695c040b7bbca462165099fa3c56a98aa8f01104bb067dc850b65f6d02"
+metafile = true
+
+[[files]]
+file = "mods/cloth-config.pw.toml"
+hash = "a89dfcc985612a275975d4823a24fc3dceb244bacb2e8f81bd459283bf1b9fe9"
+metafile = true
+
+[[files]]
+file = "mods/custom-client-brand.pw.toml"
+hash = "a2bbc181a8e4c5862d3792597ca3ead64009debb9da012d403920749b49c06e6"
+metafile = true
+
+[[files]]
+file = "mods/dashloader.pw.toml"
+hash = "f9f4439a50f6de55c91eab4c2dcbe1a6c9c325a7b87d1b579c79a6098f5dedc1"
+metafile = true
+
+[[files]]
+file = "mods/dynamic-fps.pw.toml"
+hash = "5d08ee5a9dad38ed87772d437d7e1779fecc0baa4a0e6d33b324bce9908c60ea"
+metafile = true
+
+[[files]]
+file = "mods/ebe.pw.toml"
+hash = "b8270928d44781b9e59982d376bb3cc0d24089ceebef3c79d3e1e881ba7ece60"
+metafile = true
+
+[[files]]
+file = "mods/emi-enchanting.pw.toml"
+hash = "f88b04c5b537da9f1d032e3c9dff56648d9c19b7658af065f11d618f5c1c3fdd"
+metafile = true
+
+[[files]]
+file = "mods/emi-loot.pw.toml"
+hash = "8766521465c1cc6b57199a24008be030eabfd417c0ba7eb6c91f26c2f6ffa70a"
+metafile = true
+
+[[files]]
+file = "mods/emi-ores.pw.toml"
+hash = "a795456f4c51698e46972aa908fc7966291214de6d028e01d9d0c94121ae2c43"
+metafile = true
+
+[[files]]
+file = "mods/emi.pw.toml"
+hash = "89556771a29b247e12fc58be469262f67ab1b736854381ae6cc4a7a1158ecebd"
+metafile = true
+
+[[files]]
+file = "mods/emitrades.pw.toml"
+hash = "a55d562fcd6be9796e8cc162b83b5745efd83254fae44bf5a4d85d0fe6c97fcb"
+metafile = true
+
+[[files]]
+file = "mods/extreme_sound_muffler.pw.toml"
+hash = "22ecdf1b61163dc345bd872958453cd91bc4f3758086c286f358443c4430933b"
+metafile = true
+
+[[files]]
+file = "mods/held-item-info.pw.toml"
+hash = "c24e05bc69b5e571da13b6f854c89ea093deab2b74b1bd3e8f17113a2f01c07e"
+metafile = true
+
+[[files]]
+file = "mods/immediatelyfast.pw.toml"
+hash = "b411b04e1dace15c7fc1465bb161c8e621750b1577282e0918f956212a57e864"
+metafile = true
+
+[[files]]
+file = "mods/indium.pw.toml"
+hash = "e416b18eebf514dea2014cf5c7fd3ee8493934a0b4e937509f15172ad271fde2"
+metafile = true
+
+[[files]]
+file = "mods/inspecio.pw.toml"
+hash = "497d26fe7f85a6c62cf50d4a86323584ff5b01ba1fa98e06686125ddf85bda89"
+metafile = true
+
+[[files]]
+file = "mods/inventory-management.pw.toml"
+hash = "e181bb57004fede8c736e9183d8645e7db17d965669590575b3cbbc1050075ef"
+metafile = true
+
+[[files]]
+file = "mods/iris.pw.toml"
+hash = "eb0d9a1475b609eb82f26d0440846d52034c1aef8fcc21ee1cc327dc52648f7d"
+metafile = true
+
+[[files]]
+file = "mods/jade.pw.toml"
+hash = "169c556d113a560237df18bd07a7247ffb747cf0d5be105462dfa55f5a19c0e1"
+metafile = true
+
+[[files]]
+file = "mods/krypton.pw.toml"
+hash = "71ef7cc16632c0039fe194183b5885968c6d740aaa67a58000653ae0cb40b882"
+metafile = true
+
+[[files]]
+file = "mods/language-reload.pw.toml"
+hash = "43986085a6a74e456999737d6f3b68f35bacc0d71aa9ee780e8dc143afd181b1"
+metafile = true
+
+[[files]]
+file = "mods/lazydfu.pw.toml"
+hash = "b4ca05b39b85c27cd97ccb65d5fb832f5e9fd7ee5710542a3e69dfa30a97ea7d"
+metafile = true
+
+[[files]]
+file = "mods/litematica.pw.toml"
+hash = "87a313a3e048b2dffb8d501e4cb4afd275f263d8b0fbcdeb6f55d7d0efbdef8f"
+metafile = true
+
+[[files]]
+file = "mods/litemoretica.pw.toml"
+hash = "4a3c7eca96131a1e795b867721c1307781670fbdd513b65f0a8877ef6698e464"
+metafile = true
+
+[[files]]
+file = "mods/lithium.pw.toml"
+hash = "c239c951796882b9c93e649a0dba4f2d95804441faaed707b686381b7a5c67da"
+metafile = true
+
+[[files]]
+file = "mods/malilib.pw.toml"
+hash = "e5deb9d89c0a8c0060d2a5eb99d5ad0898262a080922aa7f44983a829949e0b2"
+metafile = true
+
+[[files]]
+file = "mods/minihud.pw.toml"
+hash = "1bdf87c5dd44a752e0fa20ba3b42eb2671d3271c20da595115ae9b7ca63b1ada"
+metafile = true
+
+[[files]]
+file = "mods/minimap-sync.pw.toml"
+hash = "469d6d85acf99c404f36f5bf9616bd6d60c2e8122b4b9449a2278980237dd7fc"
+metafile = true
+
+[[files]]
+file = "mods/modmenu.pw.toml"
+hash = "4cd171d3f5f3e1d2948cb1b0062e742a5e85110c9e9a668f9aed5b0cebcb9c97"
+metafile = true
+
+[[files]]
+file = "mods/qsl.pw.toml"
+hash = "5a6df3930d69602402cd13bf860195ac44680e2d4556e8d1254ae730fcb4b0f9"
+metafile = true
+
+[[files]]
+file = "mods/reeses-sodium-options.pw.toml"
+hash = "0f9916dcded3aac68d56113e9617bbe3db5ec9036bd9bba784bc40a961b0c9f0"
+metafile = true
+
+[[files]]
+file = "mods/simple-voice-chat.pw.toml"
+hash = "8914e39f583cad2cbf3563c4aa9721ddb2b4fecd8a1dc5cc342b768f8affdd1d"
+metafile = true
+
+[[files]]
+file = "mods/sodium-extra.pw.toml"
+hash = "5379b1da9fa50def37ede26e66dd963de3ce6f8576cd60a6b117998e09a5597c"
+metafile = true
+
+[[files]]
+file = "mods/sodium.pw.toml"
+hash = "cd49906a91e2ff1c11acba79192d609c232f2f73d82cc6a646e7338c8e76aa8a"
+metafile = true
+
+[[files]]
+file = "mods/syncmatica.pw.toml"
+hash = "1bcfedea8c71c58c75646e0afd6211a95df4b4d0e545c28585f6aa3647f7158c"
+metafile = true
+
+[[files]]
+file = "mods/tweakermore.pw.toml"
+hash = "a1799fc50bcad9cbd7c8b9123b8725e8476e9a3c34a11580890d0cc60a93dfbb"
+metafile = true
+
+[[files]]
+file = "mods/tweakeroo.pw.toml"
+hash = "75b8ac35dee78b95e98d995a1d22e2b122e39425b2ab8838334b8cac849ca0f4"
+metafile = true
