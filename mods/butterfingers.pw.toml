@@ -1,0 +1,13 @@
+name = "butterfingers"
+filename = "butterfingers-1.0.jar"
+side = "client"
+
+[download]
+url = "https://cdn.modrinth.com/data/g2VoyJGj/versions/6alCjLa6/butterfingers-1.0.jar"
+hash-format = "sha1"
+hash = "1f36d83242ec4bd513eacab711f13d78171b710e"
+
+[update]
+[update.modrinth]
+mod-id = "g2VoyJGj"
+version = "6alCjLa6"

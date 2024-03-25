@@ -21,6 +21,11 @@ hash = "a5251001f835f131fca620b8633f0309208bdcdeea22e2820f633ea02bb43cee"
 metafile = true
 
 [[files]]
+file = "mods/butterfingers.pw.toml"
+hash = "9183c482482e8a4584cec9a79b0b537020173ec0d7ad4d7468d288e5a6bb23ee"
+metafile = true
+
+[[files]]
 file = "mods/chat-heads.pw.toml"
 hash = "8a069d8b237eb6807fb27f7b19867055293190f25b03e83dad183dfcdad9efd7"
 metafile = true
@@ -46,8 +51,23 @@ hash = "f9f4439a50f6de55c91eab4c2dcbe1a6c9c325a7b87d1b579c79a6098f5dedc1"
 metafile = true
 
 [[files]]
+file = "mods/draggable-lists.pw.toml"
+hash = "820a6bf2e0555af7e835f94c6e94c5cd8da1bdf2ea6824904030612b9f568919"
+metafile = true
+
+[[files]]
+file = "mods/durability-plus.pw.toml"
+hash = "a73d0cdff7a07c267e9263eea60dc9ad0e3bda648c2698ddc2c880ef268c37db"
+metafile = true
+
+[[files]]
 file = "mods/dynamic-fps.pw.toml"
 hash = "5d08ee5a9dad38ed87772d437d7e1779fecc0baa4a0e6d33b324bce9908c60ea"
+metafile = true
+
+[[files]]
+file = "mods/easiervillagertrading.pw.toml"
+hash = "465acceadc89974dc9887cee20c1b27fc5c9a6074693dcacca6d50852c0c260f"
 metafile = true
 
 [[files]]
