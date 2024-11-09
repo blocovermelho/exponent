@@ -60,17 +60,17 @@ metafile = true
 
 [[files]]
 file = "mods/badoptimizations.pw.toml"
-hash = "d349418229113f3ee294443bfca547e5b252da3849f7bcbfa10ab5177bdf4dde"
+hash = "d5f0e6dec4e5cbd13257be43ae4d1beebc007ba08cc1823913fcc2e911ff0cbf"
 metafile = true
 
 [[files]]
 file = "mods/better-stats.pw.toml"
-hash = "546ad110838279308e92fa46583474e81484d4574ce924179d2c73744fa07ecf"
+hash = "8962b5833f18a6f4affebd62058361a46097741d21cf8b1d91b59c43795aea95"
 metafile = true
 
 [[files]]
 file = "mods/bridging-mod.pw.toml"
-hash = "a5251001f835f131fca620b8633f0309208bdcdeea22e2820f633ea02bb43cee"
+hash = "06c9f38a8527f7c017b858bad71c6524a32a4a8569f0c20797701e0d2dffaf8f"
 metafile = true
 
 [[files]]
@@ -80,17 +80,17 @@ metafile = true
 
 [[files]]
 file = "mods/chat-heads.pw.toml"
-hash = "8a069d8b237eb6807fb27f7b19867055293190f25b03e83dad183dfcdad9efd7"
+hash = "4fc65c8f5ae931332e06e5e60f7c9dd7d5dd724f7f9e2e66ef2800b7c1cc3693"
 metafile = true
 
 [[files]]
 file = "mods/cit-resewn.pw.toml"
-hash = "44e2cc695c040b7bbca462165099fa3c56a98aa8f01104bb067dc850b65f6d02"
+hash = "6e0f65ee18b813423cc838f9fde4114d0b26b624232990c228372fb06e9e9b40"
 metafile = true
 
 [[files]]
 file = "mods/cloth-config.pw.toml"
-hash = "a89dfcc985612a275975d4823a24fc3dceb244bacb2e8f81bd459283bf1b9fe9"
+hash = "b2d6595b73bd66167a4d7ace472c54c0eab45f55e1769f4ff7da72ce8b58872a"
 metafile = true
 
 [[files]]
@@ -115,7 +115,7 @@ metafile = true
 
 [[files]]
 file = "mods/dynamic-fps.pw.toml"
-hash = "5d08ee5a9dad38ed87772d437d7e1779fecc0baa4a0e6d33b324bce9908c60ea"
+hash = "679dc8c14612e1fcad5c5d44e651c59885ab6abe6fac73fed51edd428deeb759"
 metafile = true
 
 [[files]]
@@ -130,22 +130,22 @@ metafile = true
 
 [[files]]
 file = "mods/emi-enchanting.pw.toml"
-hash = "f88b04c5b537da9f1d032e3c9dff56648d9c19b7658af065f11d618f5c1c3fdd"
+hash = "0c3c85967808550cd2fcc3de024342ac79c3b6c73484ad040b11a2e3347a2275"
 metafile = true
 
 [[files]]
 file = "mods/emi-loot.pw.toml"
-hash = "8766521465c1cc6b57199a24008be030eabfd417c0ba7eb6c91f26c2f6ffa70a"
+hash = "91477cf93a41ce754e1dcaf83a778cea12bc33276a4ccf01fe78295ac3d00eb1"
 metafile = true
 
 [[files]]
 file = "mods/emi-ores.pw.toml"
-hash = "a795456f4c51698e46972aa908fc7966291214de6d028e01d9d0c94121ae2c43"
+hash = "764be244495fd4534d234c1c6a3251454d9c003ed944305d4caa1c0074c643ab"
 metafile = true
 
 [[files]]
 file = "mods/emi.pw.toml"
-hash = "89556771a29b247e12fc58be469262f67ab1b736854381ae6cc4a7a1158ecebd"
+hash = "fbe1acda4a888653d2e271dbe063f014e0548040adb06e99ee266543b21fbd5e"
 metafile = true
 
 [[files]]
@@ -155,7 +155,7 @@ metafile = true
 
 [[files]]
 file = "mods/extreme_sound_muffler.pw.toml"
-hash = "22ecdf1b61163dc345bd872958453cd91bc4f3758086c286f358443c4430933b"
+hash = "f12908c5e33ffff99f95cd0de430500206591c1b68b1f099c33c6621d88e1081"
 metafile = true
 
 [[files]]
@@ -165,12 +165,12 @@ metafile = true
 
 [[files]]
 file = "mods/immediatelyfast.pw.toml"
-hash = "b411b04e1dace15c7fc1465bb161c8e621750b1577282e0918f956212a57e864"
+hash = "f4de05e69135c21ec307b290c73f3c2275241653ddf3a5c01e9a9610e8254e9d"
 metafile = true
 
 [[files]]
 file = "mods/indium.pw.toml"
-hash = "e416b18eebf514dea2014cf5c7fd3ee8493934a0b4e937509f15172ad271fde2"
+hash = "31278d67704a56eb32d93c240e4bfd9822e1ab6047ee14d752953dd0c24dca95"
 metafile = true
 
 [[files]]
@@ -185,7 +185,7 @@ metafile = true
 
 [[files]]
 file = "mods/iris.pw.toml"
-hash = "eb0d9a1475b609eb82f26d0440846d52034c1aef8fcc21ee1cc327dc52648f7d"
+hash = "a4ead715d6d053581edbbecac7d8cdae57d941503d0ccec8aca5ef26ba3b1341"
 metafile = true
 
 [[files]]
@@ -195,7 +195,7 @@ metafile = true
 
 [[files]]
 file = "mods/jade.pw.toml"
-hash = "169c556d113a560237df18bd07a7247ffb747cf0d5be105462dfa55f5a19c0e1"
+hash = "0e9b4a996662c249debac700d6f50f3f5de3c70851f9c752814233cb14375730"
 metafile = true
 
 [[files]]
@@ -205,7 +205,7 @@ metafile = true
 
 [[files]]
 file = "mods/language-reload.pw.toml"
-hash = "43986085a6a74e456999737d6f3b68f35bacc0d71aa9ee780e8dc143afd181b1"
+hash = "d9c6ff8c1a43172fd52a2b6a6be3f03bb8b739e950b45a39b27043d544b9dd16"
 metafile = true
 
 [[files]]
@@ -250,7 +250,7 @@ metafile = true
 
 [[files]]
 file = "mods/qsl.pw.toml"
-hash = "5a6df3930d69602402cd13bf860195ac44680e2d4556e8d1254ae730fcb4b0f9"
+hash = "9e9da779b67e9a944da81e921ff76c3388dfe9a475a3ff4f597b27af814cd28a"
 metafile = true
 
 [[files]]
@@ -265,7 +265,7 @@ metafile = true
 
 [[files]]
 file = "mods/simple-voice-chat.pw.toml"
-hash = "8914e39f583cad2cbf3563c4aa9721ddb2b4fecd8a1dc5cc342b768f8affdd1d"
+hash = "bdde9847098ca88245845d36dc4af3a05387f6e46f93daceb4e16481397edcd4"
 metafile = true
 
 [[files]]
@@ -275,7 +275,7 @@ metafile = true
 
 [[files]]
 file = "mods/sodium.pw.toml"
-hash = "cd49906a91e2ff1c11acba79192d609c232f2f73d82cc6a646e7338c8e76aa8a"
+hash = "245530bdbb5c4127a1286f3722778d71e478194a8dcee89388c8fd247b4a57da"
 metafile = true
 
 [[files]]
@@ -285,7 +285,7 @@ metafile = true
 
 [[files]]
 file = "mods/tweakermore.pw.toml"
-hash = "a1799fc50bcad9cbd7c8b9123b8725e8476e9a3c34a11580890d0cc60a93dfbb"
+hash = "f0326b1bd1ccf141ac556e5b604589b3af1ea9ec46b366cff559c4045e7c73e3"
 metafile = true
 
 [[files]]
