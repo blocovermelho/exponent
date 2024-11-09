@@ -1,13 +1,13 @@
 name = "Exponent"
 author = "BlocoVermelho"
-version = "2.0.0"
+version = "2.1.0"
 pack-format = "packwiz:1.1.0"
 
 [index]
 file = "index.toml"
 hash-format = "sha256"
-hash = "d8c74266f1d11dbfbe1800491f8671de29c0b3dff2691e16810b13af6be9408b"
+hash = "27a4ddc212489a96c6dc64114014260e3c7921f757f459eb94d35ae7d9d3ba76"
 
 [versions]
 minecraft = "1.20.1"
-quilt = "0.24.0"
+quilt = "0.27.0-beta.1"

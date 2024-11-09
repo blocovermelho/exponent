@@ -134,16 +134,6 @@ hash = "0c3c85967808550cd2fcc3de024342ac79c3b6c73484ad040b11a2e3347a2275"
 metafile = true
 
 [[files]]
-file = "mods/emi-loot.pw.toml"
-hash = "91477cf93a41ce754e1dcaf83a778cea12bc33276a4ccf01fe78295ac3d00eb1"
-metafile = true
-
-[[files]]
-file = "mods/emi-ores.pw.toml"
-hash = "764be244495fd4534d234c1c6a3251454d9c003ed944305d4caa1c0074c643ab"
-metafile = true
-
-[[files]]
 file = "mods/emi.pw.toml"
 hash = "fbe1acda4a888653d2e271dbe063f014e0548040adb06e99ee266543b21fbd5e"
 metafile = true
@@ -284,6 +274,11 @@ hash = "1bcfedea8c71c58c75646e0afd6211a95df4b4d0e545c28585f6aa3647f7158c"
 metafile = true
 
 [[files]]
+file = "mods/tcdcommons.pw.toml"
+hash = "5d65fa670b2fadc06bea93bc6406cda0b8fd73954d49f1c90ecc427c990f0213"
+metafile = true
+
+[[files]]
 file = "mods/tweakermore.pw.toml"
 hash = "f0326b1bd1ccf141ac556e5b604589b3af1ea9ec46b366cff559c4045e7c73e3"
 metafile = true
@@ -291,6 +286,11 @@ metafile = true
 [[files]]
 file = "mods/tweakeroo.pw.toml"
 hash = "75b8ac35dee78b95e98d995a1d22e2b122e39425b2ab8838334b8cac849ca0f4"
+metafile = true
+
+[[files]]
+file = "mods/yacl.pw.toml"
+hash = "c9c7de97a085db8491f23e01c18300613295bf6da75f7868db3336ea8b93108f"
 metafile = true
 
 [[files]]
