@@ -1,6 +1,54 @@
 hash-format = "sha256"
 
 [[files]]
+file = "config/customclientbrand.json"
+hash = "e86ebb4a0a16680d036f2e1a7237c4e2b9f02030a9536bf9811511fbedd85796"
+
+[[files]]
+file = "config/yosbr/config/itemscroller.json"
+hash = "12df3f6dcda04e1dbfc13c9038b08f60d374d3328e4fd5694b945f3b36b55983"
+
+[[files]]
+file = "config/yosbr/config/litematica.json"
+hash = "0989db033a9af855fbefd11652da5b391b59fa81fbad6bcb716259fd9f914d52"
+
+[[files]]
+file = "config/yosbr/config/minihud.json"
+hash = "b3cb56ae0c43e8bf0235e115bfdbc38de41c1bc9b08780b996d985352b9380bf"
+
+[[files]]
+file = "config/yosbr/config/tweakermore.json"
+hash = "3d240a3f92092c7cf7a9d2cacf3d06585e88f1e318bfef1d330de5a8c2f31725"
+
+[[files]]
+file = "config/yosbr/config/tweakeroo.json"
+hash = "a13154fa2368634facb5e59fe86fe00600a4fbb1b6f464d64cae86edf9566238"
+
+[[files]]
+file = "config/yosbr/config/xaerominimap-common.txt"
+hash = "12d59cbd75c19a2bfb7f837f161f762e6136e834b07d3c3c5bba806a66e34bc2"
+
+[[files]]
+file = "config/yosbr/config/xaerominimap.txt"
+hash = "9acd1aefcd392324dcae52cea22ad5b5b39b7fd6806426366697466eded91602"
+
+[[files]]
+file = "config/yosbr/config/xaerominimap_entities.json"
+hash = "3c888b22cba252e8f0a974f8c1604bc05109affbf4354ad3b16e71778c4b9774"
+
+[[files]]
+file = "config/yosbr/config/xaeroworldmap.txt"
+hash = "6cae8c6c64eeebf4dd15076b8f172a440bf1ece460aef63d3abe206e2d45fe8f"
+
+[[files]]
+file = "config/yosbr/options.amecsapi.txt"
+hash = "ad0de481acde530245f7211ba862693be227d785ce918506173ef488ef964419"
+
+[[files]]
+file = "config/yosbr/options.txt"
+hash = "0988f5000ae449b223871101cc9379b9021c0593aa212c2ccef657bba8398a4d"
+
+[[files]]
 file = "mods/amecs.pw.toml"
 hash = "d66bc9c3f81429f138de5eae6226dce25f620f90df864bf7f0f9121708bf0bcc"
 metafile = true
@@ -138,6 +186,11 @@ metafile = true
 [[files]]
 file = "mods/iris.pw.toml"
 hash = "eb0d9a1475b609eb82f26d0440846d52034c1aef8fcc21ee1cc327dc52648f7d"
+metafile = true
+
+[[files]]
+file = "mods/item-scroller.pw.toml"
+hash = "942cb7252713c61b53dff087aa20cf1de90262a1efd6e115a79a2be3ea8e2c24"
 metafile = true
 
 [[files]]
