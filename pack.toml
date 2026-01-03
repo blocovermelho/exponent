@@ -1,13 +1,13 @@
-name = "Exponent"
-author = "BlocoVermelho"
-version = "2.1.0"
+name = "exponent"
+author = "alikindsys"
+version = "3.0.0"
 pack-format = "packwiz:1.1.0"
 
 [index]
 file = "index.toml"
 hash-format = "sha256"
-hash = "27a4ddc212489a96c6dc64114014260e3c7921f757f459eb94d35ae7d9d3ba76"
+hash = "5c50965453392cadf21ca6865ee9910e721007fcc997fee4e227b0bee4d2f38d"
 
 [versions]
-minecraft = "1.20.1"
-quilt = "0.27.0-beta.1"
+fabric = "0.18.4"
+minecraft = "1.21.11"

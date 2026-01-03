@@ -1,0 +1,13 @@
+name = "Villager Trading Plus"
+filename = "villager-trading-plus-fabric-1.2+1.21.9.jar"
+side = "client"
+
+[download]
+url = "https://cdn.modrinth.com/data/fRhq4ueb/versions/jE2gKq0E/villager-trading-plus-fabric-1.2%2B1.21.9.jar"
+hash-format = "sha512"
+hash = "8f1a567f62293b40bac843358307f4c195bca45eb9cdadc9ebd62e5426ca90e24b86ee4a4ae87946985c3bf30fe88ad7d26621ffa015590417c4e1509f2bbd4d"
+
+[update]
+[update.modrinth]
+mod-id = "fRhq4ueb"
+version = "jE2gKq0E"
